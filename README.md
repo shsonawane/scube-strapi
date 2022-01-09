@@ -1,3 +1,3 @@
-# Strapi application
+# Strapi CMS
 
-A quick description of your strapi application
+Strapi CMS hosted on heroku cloud and database as Atlas MongoDB
